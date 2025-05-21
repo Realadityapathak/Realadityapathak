@@ -51,18 +51,7 @@ Hey there! I'm a passionate **Full-Stack Web Developer** and **MCA 2nd-semester 
 - 💡 Build real-world applications & contribute to Open Source
 - 🎯 Secure a **high-paying job offer** from a top company
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdityaPathak&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPathak&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPathak&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ## 📫 Let's Connect!
 <p align="center">
