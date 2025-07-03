@@ -55,10 +55,10 @@ Hey there! I'm a passionate **Full-Stack Web Developer** and **MCA 2nd-semester 
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/adityapathak">
+  <a href="https://linkedin.com/in/realadityapathak">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AdityaPathak">
+  <a href="https://github.com/Realadityapathak">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://adityapathak.dev">
