@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me
-Hey there! I'm a passionate **Full-Stack Web Developer** and **MCA 2nd-semester student**, dedicated to crafting scalable and efficient web applications. I'm diving deep into **MERN stack development** while sharpening my **DSA and competitive programming** skills to ace placements. My ultimate goal? **Multiple high-paying job offers from top companies by June 2025!**
+Hey there! I'm a passionate **Full-Stack Web Developer** and **MCA 2nd-semester student**, dedicated to crafting scalable and efficient web applications. I'm diving deep into **MERN stack development** while sharpening my **DSA and competitive programming** skills to ace placements. My ultimate goal? **Multiple high-paying job offers from top companies by Dec 2025!**
 
 ## 🛠 Tech Stack & Tools
 
