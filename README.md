@@ -45,7 +45,7 @@ Hey there! I'm a passionate **Full-Stack Web Developer** and **MCA final year st
   <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - 🚀 Master **Full-Stack Web Development**
 - 🏆 Strengthen **Data Structures & Algorithms**
 - 💡 Build real-world applications & contribute to Open Source
